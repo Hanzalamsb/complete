@@ -1,0 +1,58 @@
+body{
+    margin: 0;
+}
+
+h1{
+    font-size: 50px;    
+}
+.vebo{
+    color: coral;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+img{
+    width: 90%;
+}
+.top{
+    background-image: url(image/Untitled-1.jpg);
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(lightsalmon,tomato );
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+}
+.vbb{
+    color: rgb(8, 6, 3);    
+}
+.rut{
+    color: burlywood;
+}
+.dreamp{
+    background-image: url("image/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.Ratri{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 50%;
+}
+.full{
+    border-left: 7px solid;
+    border-image: linear-gradient(lightsalmon,tomato);
+    border-image-slice: 1 ;
+}
+footer p{
+    text-align: center;
+    font-size: 10px;
+}
